@@ -52,8 +52,6 @@ Impact on Communities: We are aware that our findings could have implications fo
 
 Use of Public Data: The data sources we used are publicly available and intended for research purposes. We respect the terms of use of these sources and credit them in our project. Our use of this data is with the intention of contributing positively to public knowledge and understanding of the cost of living issues in Florida.
 
-<<<<<<< HEAD
 This project embodies our commitment to ethical research practices, ensuring that our analysis not only contributes to academic and professional knowledge but does so with integrity and respect for ethical standards.
-=======
-This project embodies our commitment to ethical research practices, ensuring that our analysis not only contributes to academic and professional knowledge but does so with integrity and respect for ethical standards.
->>>>>>> 5aaa188232ffc34012a9f1e687996fe37fca99be
+
+
